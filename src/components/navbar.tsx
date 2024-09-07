@@ -13,7 +13,7 @@ function Navbar() {
         <MobileNavbar />
         <h1 className=" text-4xl font-bold">Zoom</h1>
       </div>
-     <UserButton /> 
+     <UserButton showName  /> 
     </nav>
   );
 }
